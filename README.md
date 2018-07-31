@@ -1,7 +1,6 @@
-# BT-Relay
+# bluetooth-relay
 
-HC-05 Bluetooth Relay Control
-
+Control relay via HC-05 Bluetooth module
 
 ## Credit
 
